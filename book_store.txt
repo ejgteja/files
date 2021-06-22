@@ -1,0 +1,48 @@
+
+This challenge is about developing a Book Store app. 
+
+Our users need to be able to see what are our available books and for this we are building an app.
+
+Our backend has already been developed, and consists of three endpoints:
+	/books: return a list of all Books.
+	/best_sellers: return a list of the ISBN codes of our best seller books.
+	/recent_books: return a list of the ISBN codes fo our new books added to the store.
+
+You need to develop these screens
+    - Home (List of all books)
+    - Book details
+    - App configuration (Optional)
+
+Home Screen
+    Display all books in separate sections using a UICollectionView. 
+    Each section should display the Genre name (History, Science or Business).
+	Each book item should display: Book cover image, Book title, Book author.
+
+        - The first section should be all our best seller books
+        - Second section: History books
+        - Third section: Science books
+        - Fourth section: Business books
+
+		- Horizontal Scroll for Best Sellers section (Optional)
+			- Make the Best Sellers section scroll horizontally.
+
+		- Book Filtering (Optional)
+            - The UI should have a filter button
+            - When tapping, it should display a new screen as a modal
+            - The user should filter books by Recent and Genre
+			- When displaying filtering results you should display all books in a single section.
+
+Book Details screen
+    When tapping a book in the Home screen, the user should be redirected to a details screen.
+    This screen should display:
+
+        - Book picture
+        - Book title
+        - Author name
+        - Book description
+		- Show a badge in the UI if the book is a best seller.
+
+App Configuration screen (Optional)
+    The app configuration screen should display one setting option: Disable/Enable displaying imported books. The default value should be Enabled.
+    - After changing this configuration, the app should reload the Home and reflect the change.
+	- This setting should be persistent between app launches.
