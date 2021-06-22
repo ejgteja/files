@@ -7,6 +7,7 @@
                 "author": "Daniele Bott",
                 "description": "Chanel's combination of tradition, originality and style has always made it the most seductive of brands. Here the House of Chanel opens its private archives, revealing a galaxy of brilliant designs created by Coco Chanel from the 1920s onwards, and now reinterpreted to become the motifs for brand new garments, accessories and beauty products.",
                 "genre": "History",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/Chanel-%20Collections%20and%20Creations.jpg",
                 "imported": true
             },
             {
@@ -15,6 +16,7 @@
                 "author": "Yuval Noah Harari",
                 "description": "From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.”",
                 "genre": "History",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/9780062316110.jpg",
                 "imported": false
             },
             {
@@ -23,6 +25,7 @@
                 "author": "Smithsonian Institution",
                 "description": "Maps don't just show us where to go, but also where we've been. A stunning overview of all human history, side by side with 140 custom maps.",
                 "genre": "History",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/1465475850.jpg",
                 "imported": true
             },
             {
@@ -31,6 +34,7 @@
                 "author": "Anne Frank",
                 "description": "Discovered in the attic in which she spent the last years of her life, Anne Frank’s remarkable diary has since become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit. ",
                 "genre": "History",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/0553577123.jpg",
                 "imported": false
             },
             {
@@ -39,6 +43,7 @@
                 "author": "Neil deGrasse Tyson",
                 "description": "In this thought-provoking follow-up to his acclaimed StarTalk book, uber astrophysicist Neil deGrasse Tyson tackles the world's most important philosophical questions about the universe with wit, wisdom, and cutting-edge science.",
                 "genre": "Science",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/1426221770.jpg",
                 "imported": false
             },
             {
@@ -47,6 +52,7 @@
                 "author": "NEDU",
                 "description": "This book includes over 300 illustrations to help you visualize what is necessary to understand chemistry at it's core. While Chemistry is a huge topic, it's not necessary to spend years studying it unless it's your major in college. For most of us, we need a clear grasp on the subject to progress through school.",
                 "genre": "Science",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/1952914051.jpg",
                 "imported": false
             },
             {
@@ -55,6 +61,7 @@
                 "author": "Frank Wilczek",
                 "description": "One of our great contemporary scientists reveals the ten profound insights that illuminate what everyone should know about the physical world",
                 "genre": "Science",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/0735223793.jpg",
                 "imported": false
             },
             {
@@ -63,6 +70,7 @@
                 "author": "James Clear",
                 "description": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
                 "genre": "Business",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/0735211299.jpg",
                 "imported": false
             },
             {
@@ -71,6 +79,7 @@
                 "author": "Malcolm Gladwell",
                 "description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of 'outliers'--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?",
                 "genre": "Business",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/0316017930.jpg",
                 "imported": false
             },
             {
@@ -79,6 +88,7 @@
                 "author": "Brené Brown",
                 "description": "Leadership is not about titles, status, and wielding power. A leader is anyone who takes responsibility for recognizing the potential in people and ideas, and has the courage to develop that potential.",
                 "genre": "Business",
+                "img": "https://raw.githubusercontent.com/ejgteja/files/main/8925598914.jpg",
                 "imported": true
             }
         ]
